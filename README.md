@@ -35,9 +35,3 @@ such as flight schedules, hotel availability, and destination details.
 APIs provided by airlines, hotel chains, travel aggregators, and tourism boards are utilized to fetch up-to-date data and provide users with accurate and relevant information during the booking
 process.
 
-Methodology
-The design and implementation of the TRDMS follow a systematic methodology, whichincludes the following steps:
-• Requirements Analysis: Gathering and analysing requirements from stakeholders, includingtravellers, travel agencies, accommodation providers, and airlines.System Design: Designing the architecture, database schema, user interface, and functionalities of the TRDMS based on the identified requirements.
-• Development: Implementing the TRDMS components using appropriate technologiesand programming languages, following best practices for software development and database management.
-• Testing:  onducting thorough testing and quality assurance to ensure the reliability,performance, and security of the TRDMS, including unit testing, integration testing, and useracceptance testing.
-• Deployment: Deploying the TRDMS on a secure and scalable infrastructure, including webservers, database servers, and other necessary components. Maintenance and Support: Providing ongoing maintenance, support, and updates to the TRDMS to address issues, add new features, and improve performance based on user feedback and evolving requirements.
