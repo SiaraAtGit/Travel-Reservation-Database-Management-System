@@ -36,8 +36,7 @@ APIs provided by airlines, hotel chains, travel aggregators, and tourism boards 
 process.
 
 Methodology
-The design and implementation of the TRDMS follow a systematic methodology, which
-includes the following steps:
+The design and implementation of the TRDMS follow a systematic methodology, whichincludes the following steps:
 • Requirements Analysis: Gathering and analysing requirements from stakeholders, includingtravellers, travel agencies, accommodation providers, and airlines.System Design: Designing the architecture, database schema, user interface, and functionalities of the TRDMS based on the identified requirements.
 • Development: Implementing the TRDMS components using appropriate technologiesand programming languages, following best practices for software development and database management.
 • Testing:  onducting thorough testing and quality assurance to ensure the reliability,performance, and security of the TRDMS, including unit testing, integration testing, and useracceptance testing.
